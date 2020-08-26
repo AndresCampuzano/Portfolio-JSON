@@ -1,6 +1,11 @@
 {
     "data": [
         {
+            "link": "https://japaneseposters-next.vercel.app/",
+            "cover": "https://storage.googleapis.com/andrescampuzano/item15.095ba4c4.webp",
+            "title": "Next.js React E-commerce with its own API and Context for cart section"
+        },
+        {
             "link": "https://www.notion.so/Kumpel-de751ad025584aeba7678dec32bd5c2b",
             "cover": "https://storage.googleapis.com/andrescampuzano/item01.deee020b.webp",
             "title": "Kumpel, team project to find and create rooms, used GraphQL, MongoDB and JWT"
@@ -29,11 +34,6 @@
             "link": "https://nostalgic-jang-cb34bf.netlify.app/",
             "cover": "https://storage.googleapis.com/andrescampuzano/item13.d4798ae2.webp",
             "title": "Redux To-Do list, saving on local storage the items"
-        },
-        {
-            "link": "https://japaneseposters-next.vercel.app/",
-            "cover": "https://storage.googleapis.com/andrescampuzano/item15.095ba4c4.webp",
-            "title": "Next.js React E-commerce with its own API and Context for cart section"
         },
         {
             "link": "https://play.google.com/store/apps/details?id=com.CreatingArt.FlappyFood&hl=en",
