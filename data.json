@@ -51,11 +51,6 @@
             "title": "React design challenge, landing page for a digital bank, used Sass"
         },
         {
-            "link": "https://upbeat-goldstine-913e83.netlify.app/",
-            "cover": "https://storage.googleapis.com/andrescampuzano/item08.18d71bca.webp",
-            "title": "React To-Do list, app created to learn states and classes"
-        },
-        {
             "link": "https://focused-kowalevski-1cb9f7.netlify.app/",
             "cover": "https://storage.googleapis.com/andrescampuzano/item09.7389ce3f.webp",
             "title": "React design challenge, landing page for a company, used Sass"
@@ -69,11 +64,6 @@
             "link": "https://andrescampuzano.github.io/Ecommerce-Javascript/",
             "cover": "https://storage.googleapis.com/andrescampuzano/item11.aa8c62c2.webp",
             "title": "E-commerce web page using Vanilla Javascript and Bootstrap"
-        },
-        {
-            "link": "https://andrescampuzano.github.io/API-Weather-Javascript/",
-            "cover": "https://storage.googleapis.com/andrescampuzano/item12.a2996e7a.webp",
-            "title": "REST Weather API using React"
         }
     ]
 }
